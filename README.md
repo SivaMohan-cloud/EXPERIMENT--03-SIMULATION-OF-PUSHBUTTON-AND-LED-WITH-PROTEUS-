@@ -112,13 +112,14 @@ int main(void)
 
 ## Output screen shots of proteus  :
 ## LED OFF :
-![led off](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/f5ad371a-a124-41a3-8b66-2cfa59e19c14)
+``![led off](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/f5ad371a-a124-41a3-8b66-2cfa59e19c14)
+
 ## LED ON :
-![led on](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/b3819b42-d8c3-43ff-aeba-8aafcb2e1b56)
+``![led on](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/b3819b42-d8c3-43ff-aeba-8aafcb2e1b56)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here )
-![proteus](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/b3ecf580-30ac-4872-b5c1-7fd19b2caedc)
+``![proteus](https://github.com/SivaMohan-cloud/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/121418870/b3ecf580-30ac-4872-b5c1-7fd19b2caedc)
 
  
 ## Result :
